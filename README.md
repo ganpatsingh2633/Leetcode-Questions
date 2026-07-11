@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
