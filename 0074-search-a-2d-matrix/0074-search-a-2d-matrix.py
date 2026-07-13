@@ -17,7 +17,6 @@ class Solution:
             mid = (i + j) // 2
             row  = mid // cols
             col = mid % cols
-            print(matrix[row][col])
             if matrix[row][col] == target:
                 return True
             elif matrix[row][col] < target:
