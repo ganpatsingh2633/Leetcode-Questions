@@ -1,3 +1,30 @@
+
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+
+        rows = len(matrix)
+        cols = len(matrix[0])
+
+        left = 0
+        right = rows * cols - 1
+
+        while left <= right:
+
+            mid = (left + right) // 2
+
+            row = mid // cols
+            col = mid % cols
+
+            if matrix[row][col] == target:
+                return True
+
+            elif matrix[row][col] < target:
+                left = mid + 1
+
+            else:
+                right = mid - 1
+
+        return False
 # class Solution:
 #     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         # row = -1
@@ -8,19 +35,3 @@
         #     if matrix[row][i] == target:
         #         return True
         # return False
-class Solution:
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        rows = len(matrix)
-        cols = len(matrix[0])
-        i , j = 0 , (rows * cols) -1
-        while i <= j :
-            mid = (i + j) // 2
-            row  = mid // cols
-            col = mid % cols
-            if matrix[row][col] == target:
-                return True
-            elif matrix[row][col] < target:
-                i = mid + 1
-            else : 
-                j = mid - 1
-        return False
