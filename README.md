@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
