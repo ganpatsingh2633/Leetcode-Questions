@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
