@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
