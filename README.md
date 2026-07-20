@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
