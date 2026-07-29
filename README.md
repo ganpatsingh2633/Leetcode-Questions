@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +167,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
