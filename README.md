@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
