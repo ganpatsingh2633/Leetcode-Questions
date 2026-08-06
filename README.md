@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [2965-find-missing-and-repeated-values](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |
