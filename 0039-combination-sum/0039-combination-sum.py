@@ -1,5 +1,5 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int, sum1 = 0, ans = None, lst1 = None) -> List[List[int]]:
+    def combinationSum(self, candidates: List[int], target: int, sum1 = 0, j = 0, ans = None, lst1 = None) -> List[List[int]]:
         if ans is None:
             ans = []
         if lst1 is None:
@@ -10,12 +10,11 @@ class Solution:
             return lst1
         if sum1 > target:
             return lst1
-        for i in candidates:
-            ans.append(i)
-            Solution().combinationSum(candidates,target,sum1 + i, ans,lst1)
+        for i in range(j, len(candidates)):
+            ans.append(candidates[i])
+            Solution().combinationSum(candidates,target,sum1 + candidates[i], i, ans,lst1)
             ans.pop()
         return lst1
-
 
 
 
