@@ -244,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
