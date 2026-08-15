@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
