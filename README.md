@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0567-permutation-in-string) |
