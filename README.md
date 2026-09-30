@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Bucket Sort
@@ -304,11 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
