@@ -193,7 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0079-word-search) |
-| [0100-same-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -285,7 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
@@ -308,14 +308,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
