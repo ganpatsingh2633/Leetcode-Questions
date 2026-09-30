@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -297,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ganpatsingh2633/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
